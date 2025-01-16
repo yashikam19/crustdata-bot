@@ -1,0 +1,8 @@
+fastapi
+langchain-community
+langchain
+uvicorn
+openai
+python-multipart
+chromadb
+tiktoken
