@@ -1,6 +1,6 @@
 # crustdata-bot
 
-This application demonstrates an intelligent system which enables developers to quickly get accurate answers about Crustdata's API endpoints, any technical questions related to the documentation, and common troubleshooting solutions.
+This application demonstrates an intelligent question-answering system which enables developers to quickly get accurate answers about Crustdata's API endpoints, any technical questions related to the documentation, and common troubleshooting solutions.
 
 ### 🌐 [Streamlit Demo App](https://crustdata-api-buddy.streamlit.app/)
 
