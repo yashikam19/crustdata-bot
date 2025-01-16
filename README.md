@@ -25,7 +25,7 @@ This application demonstrates an intelligent question-answering system which ena
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yashikam19/rag_pipeline.git](https://github.com/yashikam19/crustdata-bot.git
+   git clone https://github.com/yashikam19/crustdata-bot.git
    cd crustdata-bot
    ```
 2. Create and activate a virtual environment:
