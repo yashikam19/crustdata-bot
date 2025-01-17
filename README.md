@@ -9,7 +9,7 @@ The repository is composed of three main segments:
 
 ### 🌐 [Streamlit Demo App](https://crustdata-api-buddy.streamlit.app/)
 
-### 📄 [FastAPI Swagger Page](https://fastapi-deployment-suxs.onrender.com/docs)
+### 📄 [FastAPI Swagger Page](https://api-doc-rag-1.onrender.com/crustdata/docs)
 
 ## 🔍 Key features
 
@@ -59,7 +59,7 @@ The repository is composed of three main segments:
 <img width="827" alt="error2" src="https://github.com/user-attachments/assets/a89df59e-1b47-4fcc-9748-fa4939409983" />
 <img width="740" alt="error3" src="https://github.com/user-attachments/assets/c1e22c39-a83b-4837-98ed-6dc1d69ec082" />
 
-
+**Note**:
 * The response immediately points out the exact issue: the invalid type parameter
 * Follows with comprehensive reference information: lists ALL valid operators, not just the one needed
 
@@ -69,7 +69,7 @@ The repository is composed of three main segments:
 <img width="856" alt="table_part1" src="https://github.com/user-attachments/assets/776a2651-a34a-4258-a9d9-f3b6bce588ee" />
 <img width="853" alt="table_part2" src="https://github.com/user-attachments/assets/266e47eb-5ade-4b3a-9306-4168f02038fe" />
 
-
+**Note**:
 * The response clearly states the required endpoint.
 * It provides a detailed description of the query by including the response body, curl command and key points
 
@@ -78,7 +78,7 @@ The repository is composed of three main segments:
 
 <img width="374" alt="1" src="https://github.com/user-attachments/assets/6860f25e-de45-4460-b77f-27d87396aeaa" />
 
-
+**Note**:
 * The response includes a link to the reference list
 
 
