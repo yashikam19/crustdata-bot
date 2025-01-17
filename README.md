@@ -18,7 +18,8 @@ The repository is composed of three main segments:
 
 
 *  `Selenium` is used for scraping content from the website, including content from toggles, headers, hyperlinks, code blocks, and tables.
-* `Chroma DB` is used as vector database to store, ingest and query documents.
+* `Chroma DB` is used as vector database to store, ingest, and retrieve documents using vector based similarity search.
+* The application uses OpenAI's `gpt-4o-mini` model for generation.
 
 ## ⚡ Quickstart Guide
 
@@ -53,7 +54,19 @@ The repository is composed of three main segments:
 ## 🧠 Example Queries for Streamlit App
 
 **Question:**
-Give some practice questions on chapter Sound
+
+<img width="827" alt="error2" src="https://github.com/user-attachments/assets/204f5ec0-e6f7-4b80-86fe-65e5393d1845" />
+<img width="740" alt="error3" src="https://github.com/user-attachments/assets/a2989776-c279-457a-ac61-9f8807d3d8c3" />
+<img width="858" alt="error_1" src="https://github.com/user-attachments/assets/e61879b0-b8d4-4c3c-897e-3615f92c22df" />
+
+**Question:**
+<img width="856" alt="table_part1" src="https://github.com/user-attachments/assets/776a2651-a34a-4258-a9d9-f3b6bce588ee" />
+<img width="853" alt="table_part2" src="https://github.com/user-attachments/assets/266e47eb-5ade-4b3a-9306-4168f02038fe" />
+
+**Question:**
+<img width="374" alt="1" src="https://github.com/user-attachments/assets/6860f25e-de45-4460-b77f-27d87396aeaa" />
+
+
 
 ## 📘 Dataset Used
 
