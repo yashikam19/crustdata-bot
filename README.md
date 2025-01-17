@@ -53,20 +53,29 @@ The repository is composed of three main segments:
    ```
 ## 🧠 Example Queries for Streamlit App
 
-**Question:**
+**Question 1:**
 
-<img width="827" alt="error2" src="https://github.com/user-attachments/assets/204f5ec0-e6f7-4b80-86fe-65e5393d1845" />
-<img width="740" alt="error3" src="https://github.com/user-attachments/assets/a2989776-c279-457a-ac61-9f8807d3d8c3" />
-<img width="858" alt="error_1" src="https://github.com/user-attachments/assets/e61879b0-b8d4-4c3c-897e-3615f92c22df" />
+<img width="858" alt="error_1" src="https://github.com/user-attachments/assets/2e5c8511-ca96-45d2-bf42-9ca3e15c92e6" />
+<img width="827" alt="error2" src="https://github.com/user-attachments/assets/a89df59e-1b47-4fcc-9748-fa4939409983" />
+<img width="740" alt="error3" src="https://github.com/user-attachments/assets/c1e22c39-a83b-4837-98ed-6dc1d69ec082" />
 
-**Question:**
+* The response immediately points out the exact issue: the invalid type parameter
+* Follows with comprehensive reference information: lists ALL valid operators, not just the one needed
+
+
+**Question 2:** How to search for LinkedIn posts that contain specific keywords?
+
 <img width="856" alt="table_part1" src="https://github.com/user-attachments/assets/776a2651-a34a-4258-a9d9-f3b6bce588ee" />
 <img width="853" alt="table_part2" src="https://github.com/user-attachments/assets/266e47eb-5ade-4b3a-9306-4168f02038fe" />
 
-**Question:**
+* The response clearly states the required endpoint.
+* It provides a detailed description of the query by including the response body, curl commands and key points/
+
+**Question 3:**
+
 <img width="374" alt="1" src="https://github.com/user-attachments/assets/6860f25e-de45-4460-b77f-27d87396aeaa" />
 
-
+* The response includes a link to the reference list
 
 ## 📘 Dataset Used
 
