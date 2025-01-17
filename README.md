@@ -10,10 +10,10 @@ This application demonstrates an intelligent question-answering system which ena
 
 * **Code Examples**: Includes properly formatted curl commands and JSON payloads for immediate use
 * **Session Management**: Allows the user to create and manage different sessions with maintained chat history for each session
+
+
+*  `Selenium` is used for scraping content from the website, including content from toggles, headers, hyperlinks, code blocks, and tables.
 * `Chroma DB` is used as vector database to store, ingest and query documents.
-* Langchain's `Recursive Character Text Splitting` is used for document chunking. Default inputs are:
-  - **Chunk size:** 1000 characters
-  - **Chunk overlap:** 200 characters
 
 ## ⚡ Quickstart Guide
 
