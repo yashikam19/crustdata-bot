@@ -16,7 +16,7 @@ app = FastAPI(
 
 store={}
 EMBEDDING_MODEL = "text-embedding-ada-002"
-CHROMA_PATH = "crust_v2"
+CHROMA_PATH = "crust_v5"
 embedding_function = OpenAIEmbeddings(model=EMBEDDING_MODEL, api_key=os.environ.get("OPENAI_API_KEY"))
 
 @app.get("/crustdata/healthcheck")
@@ -33,8 +33,8 @@ async def ingest_file(chroma_path: str, file: UploadFile = File(...)):
         chunk_processor = ChunkProcessor(
             embeddings=embedding_function,
             chroma_path=chroma_path,
-            chunk_size=1000,
-            chunk_overlap=200,
+            chunk_size=2000,
+            chunk_overlap=300,
         )
 
         content = (await file.read()).decode("utf-8")

@@ -7,7 +7,7 @@ from langchain_community.vectorstores import Chroma
 
 
 class ChunkProcessor:
-    def __init__(self, embeddings, chroma_path, chunk_size=1000, chunk_overlap=200):
+    def __init__(self, embeddings, chroma_path, chunk_size=2000, chunk_overlap=300):
         self.text_splitter = RecursiveCharacterTextSplitter(
             chunk_size=chunk_size,
             chunk_overlap=chunk_overlap,

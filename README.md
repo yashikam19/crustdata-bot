@@ -2,9 +2,14 @@
 
 This application demonstrates an intelligent question-answering system which enables developers to quickly get accurate answers about Crustdata's API endpoints, any technical questions related to the documentation, and common troubleshooting solutions.
 
+The repository is composed of three main segments:
+1. [web-scraper](https://github.com/yashikam19/crustdata-bot/tree/main/web-scraper): Selenium-based scraping of Crustdata's API documentation Notion webpage.
+2. [rag-backend](https://github.com/yashikam19/crustdata-bot/tree/main/rag-backend): FastAPI backend hosted on Render.
+3. [streamlit-frontend](https://github.com/yashikam19/crustdata-bot/tree/main/streamlit-frontend): A simple chat interface with session management deployed using Streamlit.
+
 ### 🌐 [Streamlit Demo App](https://crustdata-api-buddy.streamlit.app/)
 
-### 📄 [FastAPI Swagger Page (deployed on Render)](https://fastapi-deployment-suxs.onrender.com/docs)
+### 📄 [FastAPI Swagger Page](https://fastapi-deployment-suxs.onrender.com/docs)
 
 ## 🔍 Key features
 

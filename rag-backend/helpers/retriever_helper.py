@@ -4,7 +4,7 @@ from langchain.prompts import ChatPromptTemplate
 from langchain_community.chat_models import ChatOpenAI
 
 class Retriever:
-    def __init__(self, chroma_path, embedding_function, model_name="gpt-4o"):
+    def __init__(self, chroma_path, embedding_function, model_name="gpt-4o-mini"):
         self.chroma_path = chroma_path
         self.embedding_function = embedding_function
         self.model_name = model_name
